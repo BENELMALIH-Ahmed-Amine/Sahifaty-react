@@ -1,15 +1,19 @@
-// import { createContext } from "react";
+import { createContext } from "react";
+import { Data } from "../Constans";
 
-// export const Mycontext = createContext()
+export const Mycontext = createContext()
 
-// export const MyProvider = ({children}) => {
+export const MyProvider = ({ children }) => {
 
-//     const BooksData = 
+    const BooksData = Data.BooksData.books
+    const AllBooks = BooksData
+    console.log(AllBooks);
+    
 
-//     const UserData = 
+    // const UserData = 
 
-//     const all = { BooksData, UserData }
+    const all = { AllBooks }
 
 
-//     return <Mycontext.Provider value={BooksData}>{children}</Mycontext.Provider>
-// }
+    return <Mycontext.Provider value={all}>{children}</Mycontext.Provider>
+}

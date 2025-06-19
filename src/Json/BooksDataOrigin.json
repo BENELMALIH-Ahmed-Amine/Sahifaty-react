@@ -1,3 +1,115 @@
 {
-    
+
+ "books": [
+      {
+        "id": "0",
+        "title": "Agile Web Development with Rails",
+        "author": "Sam Ruby, Dave Thomas, David Heinemeier Hansson",
+        "categories": "Web development",
+        "edition": "Fourth Edition",
+        "language": "en",
+        "pages": "472",
+        "description": "",
+        "cover": "img0"
+      },
+      {
+        "id": "1",
+        "title": "Flask Web Development",
+        "author": "Miguel Grinberg",
+        "categories": "python,pyhton web development,flask",
+        "edition": null,
+        "language": "",
+        "pages": "",
+        "description": "",
+        "cover": "img1"
+      },
+      {
+        "id": "2",
+        "title": "CakePHP Application Development: Step-by-step introduction to rapid web development using the open-source MVC CakePHP framework",
+        "author": "Ahsanul Bari, Anupom Syam",
+        "categories": "Computer Science/Web/Server Side Scripting/PHP",
+        "edition": "",
+        "language": "en",
+        "pages": "328",
+        "description": "I bought this book based on the reviews here. It was the highest rated CakePHP book on Amazon at the time so I figured I couldn't go wrong. I was a little wrong about that...\r\rThe book is pretty easy to follow, and it does a good job introducing you to how CakePHP works and talking you through using the MVC pattern. The reason I gave it such a low rating is because of the code typos that litter the pages and all of the terrible, terrible grammar throughout. It's as though the author didn't speak English natively and the editors didn't bother to fix anything! What's worse, some of the concepts in the book are stated exactly backwards; a read headache for the beginner.\r\rIf you already know PHP to some degree and are at least familiar with CakePHP, the book is pretty helpful for solidifying ideas. It's probably one of the better books I've read on the topic in terms of the order in which they teach you and how it's described. But, if you're new to PHP or CakePHP, don't start with this book; you'll be pulling your hair out trying to figure out where the typos in the code are and interpreting the text.\r\rOverall, I'm happy I picked the book up. It's the second one I've been reading and it's helped me make more sense of how some of the components work, but if you're new and you just want to learn how to use CakePHP, you should consider looking elsewhere, or at least reading The Manual on their website first.",
+        "cover": "img2"
+      },
+      {
+        "id": "3",
+        "title": "Alex Homer, ASP.NET 2.0 Visual Web Developer 2005",
+        "author": "David Sussman",
+        "categories": "Компьютерная литература\\11 web строительство\\Web - строительство, ASP.NET\\",
+        "edition": "",
+        "language": "en",
+        "pages": "314",
+        "description": "*  This Starter Kit serves as an entry-level introduction centered around prebuilt projects that developers can easily deploy and customize for their own sites    * Explains how to build good basic Web sites, including design and architecture, for users who plan to build more complex sites in the future    * Details the key site features that beginners like to implement, including catalogs, shopping carts, images, and secure site sections    * The authors use very little code, but where coding is needed, they feature the simple Visual Basic language    * The CD-ROM includes Visual Web Developer 2005 Express Edition",
+        "cover": "img3"
+      },
+      {
+        "id": "4",
+        "title": "Python for Data Science",
+        "author": "Yuli Vasiliev",
+        "categories": "Computer Science/Web/Server Side Scripting/PHP",
+        "edition": "1st Ed.",
+        "language": "en",
+        "pages": "392",
+        "description": "Based on the title, the book has so many things to discuss but it actually has less than 400 pages that even include the glossary of terms. The reader might have a second thought about the book since it might not promise to discuss the things written in the chapter.\r\rBut if you go through the chapters, you will be surprised how each topic could be discussed thoroughly in this book. Using the traditional structures in most web and application development books, it slowly introduces each concept before they are brought together in the final chapters. \r\rPHP and Oracle are discussed separately at first with sample codes and situations to ensure that the reader understands each concept. It then goes to discuss who they could be efficiently integrated. The final chapter which is about Ajax is very impressive as it gives the developers a chance to develop an Ajax based application using popular practices in web development. The robustness of Oracle and efficiency of PHP is actually shown in an Ajax based application.\r\rPHP Oracle Web Development: Data processing, Security, Caching, XML, Web Services, and Ajax is a good starting book for any web development professionals and enthusiasts. It covers the basics of web development using PHP and database management of Oracle including an installation guide for Oracle and PHP. If you are looking for a book to start with PHP and Oracle, this book offers a good start. \r\rFor developers who are experienced in this discipline, the book could be a good reference point for developing an application. The sample codes that helps the reader understands the underlying concept of the application with actual scenarios, this PHP and Oracle book is almost too good to pass on.",
+        "cover": "img4"
+      },
+      {
+        "id": "5",
+        "title": "WordPress for Web Developers: An Introduction for Web Professionals",
+        "author": "Stephanie Leary (auth.)",
+        "categories": "Computers\\\\Web-design",
+        "edition": "",
+        "language": "en",
+        "pages": "356",
+        "description": "",
+        "cover": "img5"
+      },
+      {
+        "id": "6",
+        "title": "MODx Web Development",
+        "author": "Antano Solar John, Antano Solar John",
+        "categories": "Computer Science/Web/Server Side Scripting/PHP",
+        "edition": "",
+        "language": "en",
+        "pages": "276",
+        "description": "Like someone else said, you can learn MODx by finding resources on the internet. I started reading this book to get introduced to the system, and it was OK for that, but I found I didn't really use it or need it when I actually started making my MODx site. It's a good overview/introduction that may help you understand what MODx is and how it functions, but not totally needed if you just want to jump right in and make a site with MODx. Also, since the release of MODx 1.0/1.0.1, the terminology used in this book is no longer correct, so it may actually confuse you (Resources are now Elements, Documents are now Resources, etc.) And I found some of the writing to be awkward.",
+        "cover": "img6"
+      },
+      {
+        "id": "7",
+        "title": "Grok 1.0 Web Development",
+        "author": "Carlos de la Guardia",
+        "categories": "Computing -Web",
+        "edition": "",
+        "language": "en",
+        "pages": "307",
+        "description": "",
+        "cover": "img7"
+      },
+      {
+        "id": "8",
+        "title": "Professional JavaScript for Web Developers",
+        "author": "Nicholas C. Zakas",
+        "categories": "Computing -Web",
+        "edition": "2",
+        "language": "en",
+        "pages": "841",
+        "description": "Probably the most complete and updated book that you may find about Javascript.The author made a great job writting about some of the most important topics on javascript development and highlighting the difference among browsers.Most of the topics are already covered in other javascript books I have read before, but not in the way Nicholas does, he usually goes deeper on every topic.If you have some knowledge on javascript and want to reach another level, this is the book for you. If you consider yourself a guru, you may enjoy it as well, but definitely, not for newbies.",
+        "cover": "img8"
+      },
+      {
+        "id": "9",
+        "title": "Art of Java Web Development: Struts, Tapestry, Commons, Velocity, JUnit, Axis, Cocoon, InternetBeans, WebWork",
+        "author": "Neal Ford",
+        "categories": "computers, computers/web",
+        "edition": "",
+        "language": "en",
+        "pages": "624",
+        "description": "A guide to the topics required for state of the art Web development, this book covers wide-ranging topics, including a variety of web development frameworks and best practices. Beginning with coverage of the history of the architecture of Web applications, highlighting the uses of the standard web API to create applications with increasingly sophisticated architectures, developers are led through a discussion on the development of industry accepted best practices for architecture. Described is the history and evolution towards this architecture and the reasons that it is superior to previous efforts. Also provided is an overview of the most popular Web application frameworks, covering their architecture and use. Numerous frameworks exist, but trying to evaluate them is difficult because their documentation stresses their advantages but hides their deficiencies. Here, the same application is built in six different frameworks, providing a way to perform an informed comparison. Also provided is an evaluation of the pros and cons of each framework to assist in making a decision or evaluating a framework on your own. Finally, best practices are covered, including sophisticated user interface techniques, intelligent caching and resource management, performance tuning, debugging, testing, and Web services.",
+        "cover": "img9"
+      }
+    ]
 }

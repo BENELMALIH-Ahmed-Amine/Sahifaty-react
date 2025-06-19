@@ -1,0 +1,1 @@
+export * as BooksData from '../Json/BooksDataOrigin.json'
